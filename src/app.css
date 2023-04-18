@@ -5,6 +5,12 @@
 @tailwind utilities;
 
 
+
+body{
+    background-color: #222;
+}
+
 .btn{
     @apply bg-blue-300 rounded-full py-2 px-3 uppercase text-xs font-bold cursor-pointer tracking-wider;
 }
+
