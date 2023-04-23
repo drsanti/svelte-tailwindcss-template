@@ -1,12 +1,16 @@
-# 05_iot_app
+# 05_frontend
+
+## Install dependencies
+
+`cd` into the `05_frontend` and run the command `npm install`
 
 
 ## Run the application
 
-`cd` in to the `05_iot_app` and run the command `npm run dev`
+`cd` in to the `05_frontend` and run the command `npm run dev`
 
 
-## Hide setting/configuration files
+## Hide setting/configuration files (optional)
 
 Open the `settings.json` in the `.vscode` and add the following lines:
 
