@@ -1,14 +1,8 @@
 
-
-<div class="flex justify-center">
-    <div class="flex items-end">
-        <div class="w-10 h-5 bg-red-200"></div>
-        <div class="w-10 h-10 bg-cyan-200"></div>
-        <div class="w-10 h-20 bg-yellow-200"></div>
-    </div>
+<div class="flex flex-col">
+    <ol class="list-decimal">
+        <li>A</li>
+    </ol>
+    <a href="tw-01-sizing">Sizing</a>
+    <a href="tw-02-center">Flex (center)</a>
 </div>
-
-
-
-
-
